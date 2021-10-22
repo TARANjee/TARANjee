@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TARANjee
-- 👀 I’m interested in Web App development,mobile App development but know I am a student so i am learnig it and improving it.
+- 👀 I’m interested in Web App development,mobile App development .
 - 🌱 I’m currently learning reactjs,react native,mern stack etc
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
