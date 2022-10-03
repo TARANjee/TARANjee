@@ -2,9 +2,9 @@
 - 👀 I’m interested in Web App development and mobile App development.
 - 🌱 I’m currently learning and working on reactjs,react native,mern stack etc
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--Social Platforms
- --Linkedin:- https://www.linkedin.com/in/tjsingh47/
+- 📫 How to reach me ...<br />
+- Social Platforms<br />
+ --Linkedin:- https://www.linkedin.com/in/tjsingh47/<br />
  --E-mail:taranjeets120@gmail.com
 <!---
 TARANjee/TARANjee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
