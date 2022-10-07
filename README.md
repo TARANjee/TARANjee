@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...<br />
  -Portfolio website:-https://taranjee.github.io/test-portfolio/ <br/>
- - Social Platforms<br />
+ -Social Platforms<br />
   -Linkedin:- https://www.linkedin.com/in/tjsingh47/<br />
   -E-mail:taranjeets120@gmail.com
 <!---
