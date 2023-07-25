@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-📚 I'm Pursuing MCA from Graphic Era Hill Dniversity, Dehradun.</br>
+📚 I'm Pursuing MCA from Graphic Era Hill University, Dehradun.</br>
 🌱 I’m currently learning Web App development and Machine Learning <br>
 💬 Ask me about Web Development<br>
 🖥 I'm passionate about writing code, solving problems, Data Structures and Algorithms, and building software and doing creative stuff.</br>
